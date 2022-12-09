@@ -23,25 +23,3 @@ document.getElementById('btnDecipher').addEventListener('click',() => {
   document.getElementById('result1').innerHTML = cipher.decode(offset, encryptText);
 
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-//función para reconocer el nombre de usuario en la colectiva VA al ingresar, se imprime y despliega
-//opción que no funcionó :(
-// if(userName.value){
-// let name=document.getElementById ('userName');
-//name obtiene un valor
-//document.getElementById('welcomeMessage').innerHTML= 'Bienvenida al Aquelarre, ' + name.value;
-//imprimir mensaje 
-//document.getElementById('buttonCategory').style.display='block'
-//document.getElementById('login').style.display='none'    }}
