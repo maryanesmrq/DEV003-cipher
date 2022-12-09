@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    font: small-caps bold 24px/1 sans-serif;
+    padding: 1em;
+    outline: 8px ridge rgba(94, 11, 129, 0.858);
+border-radius: 2rem;
+}
+
+body {
+text-align: center;
+background-image: url(img/VA.jpg);
+background-size: cover;
+width: auto;
+        height: auto;
+}
+
+img{
+    opacity: .5;
+}
+.mensajeBienvenida{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.codigoIntegrante{
+    opacity: 5;
+font-size: 25px;
+text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+padding: .5em;
+border-style: dotted;
+outline: 3px ridge rosybrown;
+
+}  

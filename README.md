@@ -1,4 +1,15 @@
 # Cifrado César
+## Introducción
+El cifrado César es una de las herramientas más antiguas usadas en criptografía. Consiste en sustituir cada letra del abecedario por una letra desplazada un número determinado de posiciones (clave/desplazamiento). Es una técnica simple y que en la actualidad no supone una opción final para proteger información, pero funciona como base para sistemas más complejos de codificación. 
+
+<a href="https://ibb.co/k98t7tR"><img src="https://i.ibb.co/gPTx2x5/cipher-lab-maryan.jpg" alt="cipher-lab-maryan" border="0"></a>
+
+## Definición de usuarios para la app de cifrado
+## Objetivos de usuarios en relación con el producto
+## ¿La app es realmente una solución a su problema?
+
+
+
 
 ## Índice
 
