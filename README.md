@@ -5,11 +5,16 @@ El cifrado César es una de las herramientas más antiguas usadas en criptograf�
 <a href="https://ibb.co/k98t7tR"><img src="https://i.ibb.co/gPTx2x5/cipher-lab-maryan.jpg" alt="cipher-lab-maryan" border="0"></a>
 
 ## Definición de usuarios para la app de cifrado
+En octubre de 2022 ocurrió una filtración de documentos internos del Ejército mexicano a cargo de un grupo autodenominado Guacamaya, esta filtración reveló que varios grupos de activistas son vigilados por la fuerza militar, entre ellos colectivos feministas. En estos documentos, justificados como reportes de inteligencia, se identifican activistas sociales como potenciales enemigos, a la par de cárteles de droga, sindicalistas, defensores del territorio o grupos zapatistas del EZLN. Esta primera noticia se acompañó de muchas otras en las que se observaban dinámicas similares en los gobiernos de cada estado, manifestando la vigilancia excesiva que actores políticos enfrentan en contextos de inseguridad y riesgo.
+Verde Aquelarre es una colectiva feminista basada en Guanajuato, Guanajuato, se dedica al acompañamiento de mujeres en situación de violencia, abortos seguros, activismo digital y la promoción de una agenda para erradicar la violencia de género en el estado de Guanajuato. Está integrada por mujeres de diversas edades con ocupaciones distintas, entre ellas, politólogas, artistas, escritoras, economistas, gestoras culturales y estudiantes. 
+
 ## Objetivos de usuarios en relación con el producto
+Ante la expresa vulneración de los datos personales de muchas colectivas feministas, se vuelve elemental encontrar métodos y herramientas que procuren la seguridad y protección de sus integrantes. Código secreto Verde Aquelarre se plantea como una plataforma que permita cifrar y descrifrar los mensajes que se comparten en redes sociales entre sus integrantes. El código de desplazamiento u offset se determina mediante otra aplicación aleatoria que semanalmente otorgará un código distinto para cada una de las integrantes, por lo que las demás podrán utilizar la aplicación conociendo de antemano el código que cada una requiere para descrifrar sus mensajes.
+
 ## ¿La app es realmente una solución a su problema?
+El objetivo principal de Código secreto Verde Aquelarre fue otorgar una herramienta para proteger los datos compartidos por las integrantes del colectivo. Si bien, una aplicación que cifre y descifre mensajes no representa una solución a la problemática principal relativa a la filtración de datos personales, sí es una herramienta que, acompañada de otros recursos, supone el inicio de la implementación de buenas prácticas en cuidados digitales para activistas. 
 
-
-
+cuál fue tu proceso para definir el producto final a nivel de experiencia y de interfaz.
 
 ## Índice
 
