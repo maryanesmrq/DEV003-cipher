@@ -15,6 +15,15 @@ Ante la expresa vulneración de los datos personales de muchas colectivas femini
 El objetivo principal de Código secreto Verde Aquelarre fue otorgar una herramienta para proteger los datos compartidos por las integrantes del colectivo. Si bien, una aplicación que cifre y descifre mensajes no representa una solución a la problemática principal relativa a la filtración de datos personales, sí es una herramienta que, acompañada de otros recursos, supone el inicio de la implementación de buenas prácticas en cuidados digitales para activistas. 
 
 ## El proceso
+Desde un inicio, la planeación de la interfaz se planteó sencilla, el enfoque se basó en la comprensión de las funciones en JavaScript, tanto para el index como para el cipher. Del proceso de preadmisión comprendí que es mejor sentar objetivos realistas e ir construyendo pequeños entregables en lugar de tener grandes ambiciones desde el inicio. 
+
+Idea original
+<a href="https://ibb.co/1bg9Q01"><img src="https://i.ibb.co/KmP9h5d/IMG-0282-1.jpg" alt="IMG-0282-1" border="0"></a>
+
+Para el paso de un entregable pequeño a uno más grande de acuerdo a los objetivos de aprendizaje, objetivos generales y criterios de aceptación mínimos del proyecto, se crearon tableros en Trello que permitieron la organización minuciosa y la formación gradual del proyecto
+
+<a href="https://ibb.co/6tn8M6B"><img src="https://i.ibb.co/vdwhF2Y/2022-12-11.jpg" alt="2022-12-11" border="0"></a>
+
 
 ## Índice
 
@@ -22,103 +31,6 @@ El objetivo principal de Código secreto Verde Aquelarre fue otorgar una herrami
 * [2. Definición de usuarios](#definición-de-usuarios)
 * [3. Objetivos de usuarios en relación con el producto](#Objetivos-de-usuarios-en-relación-con-el-producto)
 * [4. ¿La app es realmente una solución a su problema?](#¿la-app-es-realmente-una-solución-a-su-problema)
-+ [5. El proceso](#el-proceso)
-
-
-- [ ] **Modelo de caja (box model): borde, margen, padding**
-
-  <details><summary>Links</summary><p>
-
-  * [Box Model & Display](https://curriculum.laboratoria.la/es/topics/css/01-css/02-boxmodel-and-display)
-  * [The box model - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
-  * [Introduction to the CSS box model - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
-  * [CSS display - MDN](https://developer.mozilla.org/pt-BR/docs/Web/CSS/display)
-  * [display - CSS Tricks](https://css-tricks.com/almanac/properties/d/display/)
-</p></details>
-
-### Web APIs
-
-- [ ] **Uso de selectores del DOM**
-
-  <details><summary>Links</summary><p>
-
-  * [Manipulación del DOM](https://curriculum.laboratoria.la/es/topics/browser/02-dom/03-1-dom-methods-selection)
-  * [Introducción al DOM - MDN](https://developer.mozilla.org/es/docs/Web/API/Document_Object_Model/Introduction)
-  * [Localizando elementos DOM usando selectores - MDN](https://developer.mozilla.org/es/docs/Web/API/Document_object_model/Locating_DOM_elements_using_selectors)
-</p></details>
-
-- [ ] **Manejo de eventos del DOM (listeners, propagación, delegación)**
-
-  <details><summary>Links</summary><p>
-
-  * [Introducción a eventos - MDN](https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/Events)
-  * [EventTarget.addEventListener() - MDN](https://developer.mozilla.org/es/docs/Web/API/EventTarget/addEventListener)
-  * [EventTarget.removeEventListener() - MDN](https://developer.mozilla.org/es/docs/Web/API/EventTarget/removeEventListener)
-  * [El objeto Event](https://developer.mozilla.org/es/docs/Web/API/Event)
-</p></details>
-
-- [ ] **Manipulación dinámica del DOM**
-
-  <details><summary>Links</summary><p>
-
-  * [Introducción al DOM](https://developer.mozilla.org/es/docs/Web/API/Document_Object_Model/Introduction)
-  * [Node.appendChild() - MDN](https://developer.mozilla.org/es/docs/Web/API/Node/appendChild)
-  * [Document.createElement() - MDN](https://developer.mozilla.org/es/docs/Web/API/Document/createElement)
-  * [Document.createTextNode()](https://developer.mozilla.org/es/docs/Web/API/Document/createTextNode)
-  * [Element.innerHTML - MDN](https://developer.mozilla.org/es/docs/Web/API/Element/innerHTML)
-  * [Node.textContent - MDN](https://developer.mozilla.org/es/docs/Web/API/Node/textContent)
-</p></details>
-
-### JavaScript
-
-- [ ] **Tipos de datos primitivos**
-
-  <details><summary>Links</summary><p>
-
-  * [Valores primitivos - MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Data_structures#valores_primitivos)
-</p></details>
-
-- [ ] **Strings (cadenas de caracteres)**
-
-  <details><summary>Links</summary><p>
-
-  * [Strings](https://curriculum.laboratoria.la/es/topics/javascript/06-strings)
-  * [String — Cadena de caracteres - MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/String)
-</p></details>
-
-- [ ] **Variables (declaración, asignación, ámbito)**
-
-  <details><summary>Links</summary><p>
-
-  * [Valores, tipos de datos y operadores](https://curriculum.laboratoria.la/es/topics/javascript/01-basics/01-values-variables-and-types)
-  * [Variables](https://curriculum.laboratoria.la/es/topics/javascript/01-basics/02-variables)
-</p></details>
-
-- [ ] **Uso de condicionales (if-else, switch, operador ternario, lógica booleana)**
-
-  <details><summary>Links</summary><p>
-
-  * [Estructuras condicionales y repetitivas](https://curriculum.laboratoria.la/es/topics/javascript/02-flow-control/01-conditionals-and-loops)
-  * [Tomando decisiones en tu código — condicionales - MDN](https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/conditionals)
-</p></details>
-
-- [ ] **Uso de bucles/ciclos (while, for, for..of)**
-
-  <details><summary>Links</summary><p>
-
-  * [Bucles (Loops)](https://curriculum.laboratoria.la/es/topics/javascript/02-flow-control/02-loops)
-  * [Bucles e iteración - MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Loops_and_iteration)
-</p></details>
-
-- [ ] **Funciones (params, args, return)**
-
-  <details><summary>Links</summary><p>
-
-  * [Funciones (control de flujo)](https://curriculum.laboratoria.la/es/topics/javascript/02-flow-control/03-functions)
-  * [Funciones clásicas](https://curriculum.laboratoria.la/es/topics/javascript/03-functions/01-classic)
-  * [Arrow Functions](https://curriculum.laboratoria.la/es/topics/javascript/03-functions/02-arrow)
-  * [Funciones — bloques de código reutilizables - MDN](https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/Functions)
-</p></details>
-
+* [5. El proceso](#el-proceso)
 
 
