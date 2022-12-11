@@ -1,4 +1,14 @@
 # Cifrado César
+
+## Índice
+
+* [1. Introducción](#Introducción)
+* [2. Definición de usuarios](#definición-de-usuarios)
+* [3. Objetivos de usuarios en relación con el producto](#Objetivos-de-usuarios-en-relación-con-el-producto)
+* [4. ¿La app es realmente una solución a su problema?](#¿la-app-es-realmente-una-solución-a-su-problema)
+* [5. El proceso](#el-proceso)
+
+
 ## Introducción
 El cifrado César es una de las herramientas más antiguas usadas en criptografía. Consiste en sustituir cada letra del abecedario por una letra desplazada un número determinado de posiciones (clave/desplazamiento). Es una técnica simple y que en la actualidad no supone una opción final para proteger información, pero funciona como base para sistemas más complejos de codificación. 
 
@@ -20,17 +30,8 @@ Desde un inicio, la planeación de la interfaz se planteó sencilla, el enfoque 
 Idea original
 <a href="https://ibb.co/1bg9Q01"><img src="https://i.ibb.co/KmP9h5d/IMG-0282-1.jpg" alt="IMG-0282-1" border="0"></a>
 
+
 Para el paso de un entregable pequeño a uno más grande de acuerdo a los objetivos de aprendizaje, objetivos generales y criterios de aceptación mínimos del proyecto, se crearon tableros en Trello que permitieron la organización minuciosa y la formación gradual del proyecto
 
 <a href="https://ibb.co/6tn8M6B"><img src="https://i.ibb.co/vdwhF2Y/2022-12-11.jpg" alt="2022-12-11" border="0"></a>
-
-
-## Índice
-
-* [1. Introducción](#Introducción)
-* [2. Definición de usuarios](#definición-de-usuarios)
-* [3. Objetivos de usuarios en relación con el producto](#Objetivos-de-usuarios-en-relación-con-el-producto)
-* [4. ¿La app es realmente una solución a su problema?](#¿la-app-es-realmente-una-solución-a-su-problema)
-* [5. El proceso](#el-proceso)
-
 
