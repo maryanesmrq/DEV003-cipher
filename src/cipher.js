@@ -33,7 +33,6 @@ const cipher = {
     if (typeof key !== "number" || typeof mensajeVA !== "string") {
       throw (TypeError());
     }
-
     for (let i = 0; i < mensajeVA.length; i++) {
       let tradText = mensajeVA[i];
       const posicionA = mensajeVA.charCodeAt(i);
