@@ -6,7 +6,7 @@ document.getElementById('btnCipher').addEventListener('click', () => {
   const encryptText = (document.getElementById('mensajeVA').value).toUpperCase();
   //variable para almacenar el offset elegido por la usuaria (en HTML marcado como código de usuaria de VA)
   let offset = document.getElementById('key').value;
-  //analizar que el offset sean números enteros
+  //Que el offset devuelva enteros
   offset = parseInt(offset);
   //se ingresa en el siguiente cuadro de texto el resultado de la función encode 
   document.getElementById('result1').innerHTML = (cipher.encode(offset, encryptText));
