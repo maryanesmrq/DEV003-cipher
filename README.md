@@ -7,7 +7,7 @@
 * [3. Objetivos de usuarios en relación con el producto](#Objetivos-de-usuarios-en-relación-con-el-producto)
 * [4. ¿La app es realmente una solución a su problema?](#¿la-app-es-realmente-una-solución-a-su-problema)
 * [5. El proceso](#el-proceso)
-* [6. ¿Cómo se utiliza la aplicación?]
+* [6. ¿Cómo se utiliza la aplicación?](#¿cómo-se-utiliza-la-aplicación)
 
 
 ## Introducción
