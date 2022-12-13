@@ -7,6 +7,7 @@
 * [3. Objetivos de usuarios en relación con el producto](#Objetivos-de-usuarios-en-relación-con-el-producto)
 * [4. ¿La app es realmente una solución a su problema?](#¿la-app-es-realmente-una-solución-a-su-problema)
 * [5. El proceso](#el-proceso)
+* [6. ¿Cómo se utiliza la aplicación?]
 
 
 ## Introducción
@@ -34,4 +35,9 @@ Idea original
 Para el paso de un entregable pequeño a uno más grande de acuerdo a los objetivos de aprendizaje, objetivos generales y criterios de aceptación mínimos del proyecto, se crearon tableros en Trello que permitieron la organización minuciosa y la formación gradual del proyecto
 
 <a href="https://ibb.co/6tn8M6B"><img src="https://i.ibb.co/vdwhF2Y/2022-12-11.jpg" alt="2022-12-11" border="0"></a>
+
+## ¿Cómo se utiliza la aplicación?
+El código de desplazamiento u offset se determina mediante otra aplicación aleatoria que semanalmente otorgará un código distinto para cada una de las integrantes, por lo que las demás podrán utilizar la aplicación conociendo de antemano el código que cada una requiere para descrifrar sus mensajes. Ese código se ingresará en el primer input. Abajo del input se incluye el mensaje que se quiere cifrar o descifrar y que al activarse el evento click en alguno de los botones, accionará las funciones de cifrado o descifrado, respectivamente.
+
+<a href="https://ibb.co/NY9rD0m"><img src="https://i.ibb.co/tCqzj0x/5897-A5-E5-687-E-4145-BC6-B-EB49-A7-A7-ADEF.jpg" alt="5897-A5-E5-687-E-4145-BC6-B-EB49-A7-A7-ADEF" border="0"></a>
 
